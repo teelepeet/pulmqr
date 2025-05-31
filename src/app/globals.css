@@ -1,0 +1,7 @@
+.container-body {
+  background-image: url(/images/2048-1365-max.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
