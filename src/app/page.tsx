@@ -39,7 +39,7 @@ export default function Home() {
   }}
 >
   <div className="col-12 col-md-8 mb-4 p-4 rounded shadow" style={{ backgroundColor: "rgba(253,246,236,0.85)" }}>
-    <p className="fs-5">Mul võiks olla sama perekonnanimi nagu sul</p>
+    <p className="fs-5">"Mul võiks olla sama perekonnanimi nagu sul"</p>
     <h1 className="display-4 fw-bold">{daysSince} päeva on möödunud meie tähtsast päevast</h1>
     <p>  </p>
     <p className="fs-4">
